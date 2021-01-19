@@ -1,0 +1,2 @@
+ContactPerson{name='', address='null', email='null', phoneNr='null'}
+0
